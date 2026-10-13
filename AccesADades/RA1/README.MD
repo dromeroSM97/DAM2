@@ -12,6 +12,6 @@ Aquest repositori conté els exercicis corresponents al **RA1** de l'assignatura
 | **Exercici 1** | Java, `java.io`, accés a fitxers | [Veure Exercici](./Pt1/RA1_E1.java) |
 | **Exercici 2** | Java, BufferedReader&Writer, accés a fitxers | [Veure Exercici](./Pt2/RA1_E2.java) |
 | **Exercici 3** | Java, Serializable, ObjectOutputStream i ObjectInputStream, accés a fitxers binaris | [Veure Exercici](./Pt3) |
-
+| **Exercici 4** | Java, Fitxers XML, DocumentBuilderFactory, TransformerFactory | [Veure Exercici](./Pt4) |
 
 ---
